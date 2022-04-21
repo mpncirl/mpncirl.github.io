@@ -6,7 +6,7 @@
 	</head>
 	<body>
 		<div id="header">
-			<div id="header1"><img src="images/Logo.png" alt="Better Built Ltd"></div>
+			<div id="header1"><img src="images/lipsum.png" alt="Logo"></div>
 			<div id="header2">
 				<div class="link"><a href="index.html">Home</a></div>
 				<div class="link"><a href="about/about.html">About</a></div>
